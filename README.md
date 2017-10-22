@@ -1,3 +1,4 @@
 # SkyDuelGame
 grade 12 project - 2d game !
-fun!
+
+![sample image](sample.png)
